@@ -15,7 +15,7 @@ Authors:
 
 - Giacomo Franchini [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0009-5641-8346)
 - David Rodríguez-Martínez [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4817-9225)
-- Alfonso Martínez-Petersen
+- Alfonso Martínez-Petersen [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0000-5117-6231)
 
 Supervisors:
 
