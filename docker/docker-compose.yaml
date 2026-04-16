@@ -1,0 +1,6 @@
+services:
+  cavers-dataset:
+    image: spaceuma/cavers:latest
+    tty: true
+    volumes:
+      - ${CAVERS}:/root/dataset
