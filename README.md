@@ -41,13 +41,13 @@ When creating the container, docker will search for the environment variable `CA
 First clone the repository:
 
 ```bash
-git clone https://github.com/spaceuma/victoria-cave-dataset.git
+git clone https://github.com/spaceuma/cavers.git
 ```
 
 Then build the docker image:
 
 ```bash
-cd victoria-cave-dataset/docker
+cd cavers/docker
 docker build -t spaceuma/cavers:latest .
 ```
 
@@ -92,14 +92,14 @@ ros2 bag play loc_diablo_1_rosbag/loc_diablo_1/ --clock
 First clone the repository:
 
 ```bash
-git clone https://github.com/spaceuma/victoria-cave-dataset.git
+git clone https://github.com/spaceuma/cavers.git
 ```
 
 Then create a ROS2 workspace and build the provided package:
 
 ```bash
 mkdir -p cavers_ws/src
-cp -r victoria-cave-dataset/docker/thermal_camera cavers_ws/src
+cp -r cavers/docker/thermal_camera cavers_ws/src
 cd cavers_ws && colcon build && source install/local_setup.bash
 ```
 
