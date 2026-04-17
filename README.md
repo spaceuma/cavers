@@ -2,7 +2,7 @@
 
 ![cavers cover](/cover.png)
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2604.15052)
 [![Static Badge](https://img.shields.io/badge/Zenodo-dataset-blue)](https://doi.org/10.5281/zenodo.19367714)
 [![Citation](https://img.shields.io/badge/Cite-This%20Work-orange)](#citation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -24,7 +24,7 @@ Supervisors:
 
 ## Links
 
-- Paper: <TODO>
+- Paper: https://arxiv.org/abs/2604.15052 (preprint version)
 - Data: https://doi.org/10.5281/zenodo.19367714
 
 ## Replay rosbags
@@ -142,15 +142,17 @@ This will iterate over all roslogs in that directory. Note that this may take a 
 
 If you use this work, please cite:
 
+> Franchini, G., Rodríguez-Martínez, D., Martínez-Petersen, A., Pérez-del-Pulgar, C. J. & Chiaberge, M. (2026). CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture. arXiv preprint arXiv:2604.15052.
+
 ```
 @article{franchini2026cavers,
   title={{CAVERS}: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture},
   author = {Franchini, Giacomo, Rodríguez-Martínez, David, Martínez-Petersen, Alfonso, Pérez del Pulgar, C.J. and Chiaberge, Marcello},
-  journal={},
+  journal={arXiv preprint arXiv:2604.15052},
   volume={},
   number={},
-  doi = {},
-  url = {},
+  doi = {https://doi.org/10.48550/arXiv.2604.15052},
+  url = {https://arxiv.org/abs/2604.15052},
   year = {2026}
 }
 ```
