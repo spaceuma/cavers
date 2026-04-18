@@ -22,6 +22,8 @@ Supervisors:
 - Carlos Pérez del Pulgar [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5819-8310)
 - Marcello Chiaberge [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1921-0126)
 
+🙌 This work was possible thanks to the help and support of Giovanni Mastrorocco, Jesus Juli Fernández, Levin Gerdes, Pedro Cantalejo Duarte and Pedro Cantalejo Espejo.
+
 ## Links
 
 - Paper: https://arxiv.org/abs/2604.15052 (preprint version)
