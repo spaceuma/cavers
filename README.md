@@ -27,7 +27,7 @@ Supervisors:
 
 ## Links
 
-- Paper: [https://arxiv.org/abs/2604.15052 (preprint version)](https://ieeexplore.ieee.org/document/11661750)
+- Paper: [https://arxiv.org/abs/2604.15052](https://ieeexplore.ieee.org/document/11661750)
 - Data: https://doi.org/10.5281/zenodo.19367714
 
 ## Replay rosbags
