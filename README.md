@@ -2,6 +2,7 @@
 
 ![cavers cover](/cover.png)
 
+[![Static Badge](https://img.shields.io/badge/paper-RAL-purple)](https://ieeexplore.ieee.org/document/11661750)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2604.15052)
 [![Static Badge](https://img.shields.io/badge/Zenodo-dataset-blue)](https://doi.org/10.5281/zenodo.19367714)
 [![Citation](https://img.shields.io/badge/Cite-This%20Work-orange)](#citation)
@@ -26,7 +27,7 @@ Supervisors:
 
 ## Links
 
-- Paper: https://arxiv.org/abs/2604.15052 (preprint version)
+- Paper: [https://arxiv.org/abs/2604.15052 (preprint version)](https://ieeexplore.ieee.org/document/11661750)
 - Data: https://doi.org/10.5281/zenodo.19367714
 
 ## Replay rosbags
@@ -144,17 +145,17 @@ This will iterate over all roslogs in that directory. Note that this may take a 
 
 If you use this work, please cite:
 
-> Franchini, G., Rodríguez-Martínez, D., Martínez-Petersen, A., Pérez-del-Pulgar, C. J. & Chiaberge, M. (2026). CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture. arXiv preprint arXiv:2604.15052.
+> Franchini, G., Rodríguez-Martínez, D., Martínez-Petersen, A., Pérez-del-Pulgar, C. J. & Chiaberge, M. (2026). CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture. IEEE Robotics and Automation Letters (RA-L).
 
 ```
 @article{franchini2026cavers,
   title={{CAVERS}: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture},
   author = {Franchini, Giacomo, Rodríguez-Martínez, David, Martínez-Petersen, Alfonso, Pérez del Pulgar, C.J. and Chiaberge, Marcello},
-  journal={arXiv preprint arXiv:2604.15052},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
   volume={},
   number={},
-  doi = {https://doi.org/10.48550/arXiv.2604.15052},
-  url = {https://arxiv.org/abs/2604.15052},
+  doi = {https://doi.org/10.1109/LRA.2026.3726391},
+  url = {https://ieeexplore.ieee.org/document/11661750},
   year = {2026}
 }
 ```
